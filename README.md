@@ -1,60 +1,60 @@
 📋 Project Overview
-An end-to-end Supply Chain Management analytics project analyzing procurement, inventory, logistics and delivery performance using a multi-tool approach. The project uncovers key operational insights to support data-driven decision making across the supply chain.
+An end-to-end Healthcare Analytics project analyzing patient records, diagnosis trends, treatment costs and hospital performance for Axon Healthcare. The project provides actionable insights to support operational decision-making and improve patient care quality.
 
 🎯 Business Questions Answered
 
-Which suppliers have the best and worst delivery performance?
-What are the major causes of supply chain delays?
-Which product categories have the highest inventory costs?
-How can we optimize order fulfillment and reduce lead times?
-What are the monthly and seasonal trends in supply chain operations?
+What are the most common diagnoses and treatment patterns?
+Which departments have the highest patient load and costs?
+What is the average length of hospital stay by diagnosis?
+How do treatment costs vary across departments and age groups?
+What are the monthly trends in patient admissions and discharges?
 
 
 🛠️ Tools Used
-ToolPurposeExcelData cleaning, transformation and summary analysisSQLData querying, aggregation and business logicTableauInteractive visualizations and trend dashboardsPower BIKPI reporting and executive dashboardPowerPointFinal presentation of insights
+ToolPurposeExcelData cleaning, formatting and summary analysisSQLData querying and patient record analysisTableauInteractive visualizations and trend dashboardsPower BIKPI reporting and executive dashboardPowerPointFinal presentation of insights
 📊 Data Overview
 
-Source: Supply Chain Management database
+Source: Axon Healthcare patient records database
+Coverage: Patient admissions, diagnoses, treatments, costs and department performance
 Tools: Excel, SQL, Tableau, Power BI
-Coverage: Procurement, Inventory, Logistics and Delivery data
 
 
 🔍 Analysis Performed
 Excel
 
-Data cleaning and formatting
-Removal of duplicates and null values
-Summary tables with key metrics
-Conditional formatting for quick insights
+Data cleaning and null value treatment
+Patient record formatting and standardization
+Summary tables for department-wise KPIs
+Conditional formatting for quick pattern identification
 
 SQL
 
-Aggregation queries for supplier performance
-JOIN operations across multiple tables
-Filtering and grouping for trend analysis
-KPI calculations using aggregate functions
+Patient count queries by diagnosis and department
+Cost aggregation across age groups and treatments
+Trend analysis using date-based grouping
+JOIN operations across patient and treatment tables
 
 Tableau Dashboard
 
-Supplier performance comparison charts
-Delivery trends over time (line chart)
-Inventory cost breakdown (bar chart)
-Geographic distribution of suppliers (map)
+Diagnosis frequency bar chart
+Monthly admissions trend (line chart)
+Department-wise cost breakdown (heatmap)
+Age group distribution (pie chart)
 
 Power BI Report
 
-KPI cards: Total Orders, On-Time Delivery %, Avg Lead Time
-Monthly order trend (area chart)
-Top/Bottom performing suppliers
-Interactive slicers for filtering by category and region
+KPI cards: Total Patients, Avg Treatment Cost, Avg Stay Duration
+Department performance comparison
+Monthly admission and discharge trends
+Interactive slicers for filtering by department and diagnosis
 
 
 💡 Key Insights
 
-Identified top performing suppliers with highest on-time delivery rates
-Uncovered seasonal patterns in order volumes and delays
-Highlighted product categories with highest inventory holding costs
-Recommended supplier consolidation to reduce procurement costs
+Identified top 5 most common diagnoses contributing to 60% of admissions
+Highlighted departments with highest treatment costs for budget optimization
+Uncovered seasonal patterns in patient admissions
+Analyzed age group distribution to support targeted healthcare planning
 
 👤 Author
 Ruthvik | Data Analyst
